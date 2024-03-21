@@ -1,2 +1,3 @@
 # binpauSage_FSE
-This WordPress starter theme by Roots/Sage includes Full Site Editing capabilities.
+This WordPress starter theme by Roots/Sage 
+  includes Full Site Editing capabilities.
